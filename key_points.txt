@@ -1,0 +1,12 @@
+after sucessfull running the application open your browser and paste this url "http://localhost:8000/docs#/"
+you will get the all api endpoints using swagger ui, a fastapi based localhost server, after completing the
+task just simply share it on github.
+
+1:- to run the application
+
+uvicorn main:app --reload
+
+
+2:- After running the application
+
+"http://localhost:8000/docs#/"  paste this url in browser
